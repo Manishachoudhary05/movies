@@ -1,0 +1,17 @@
+{
+  "name": "movies",
+  "version": "0.0.0",
+  "description": "Movie management system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Manisha",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10"
+  }
+}
